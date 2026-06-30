@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0061/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部十
+  hash: sha256:d860f9d2382c1e9bc3c39d366c670d170c860166a0919e841ef45644dcf23afb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0061_WYG_000-1a, image: WYG1488/WYG1488-0685a.png}
+body:
+  text: 珂雪詞詞曲類一詞集之屬提要臣等謹案珂雪詞二巻國朝曹貞吉撰貞吉有珂雪詩已著録是編則其詩餘也上巻凡一百三十四首下巻凡一百五首其總目所載補遺尚有卜算子浪淘沙木蘭花春草碧滿江紅百字令木蘭花慢臺城路等八調而皆有録無書殆以附在巻末裝緝者偶佚之歟其詞大抵芊綿清麗寄託遥深古調之中緯以新意不必模周範柳學步邯鄲而自不失為雅製盖其天分於是事獨近也陳維崧集有貞吉咏物詞序云吟成十首事足千秋趙明誠金石之録遜此華文郭宏農山海之篇慚斯雅製雖友朋推挹之詞不無溢量要在近代詞家亦卓然一作手矣舊本每調之末必列王士禎彭孫遹張潮李良年曹勲陳維崧等評語實沿明季文社陋習最可厭憎今悉刪除以清耳目且以見文之工與不工原所共見傳與不傳在所自為名流之序䟦批㸃不過木蘭之櫝日乆論定其妍醜不由於此庶假借聲譽者曉然知標榜之無庸焉乾隆四十六年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:9705e5dd3e7303b277d5d27d34cd2de37a16f0629f40bdfd711ed9ca2cd48900
+metadata:
+  title: 珂雪詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:49:02.610527'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4j0061/KR4j0061_000.txt
+hash: sha256:5ea7b3c40cd99dfd4c3ab479c899dfa445cc9d572bd25d0dd25aa82064bc816f
